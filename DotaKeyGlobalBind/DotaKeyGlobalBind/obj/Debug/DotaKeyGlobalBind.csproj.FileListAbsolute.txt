@@ -1,0 +1,10 @@
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\obj\Debug\DotaKeyGlobalBind.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\obj\Debug\DotaKeyGlobalBind.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\obj\Debug\DotaKeyGlobalBind.MainBinding.resources
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\bin\Debug\DotaUniversalKeyBind.exe.config
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\bin\Debug\DotaUniversalKeyBind.exe
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\bin\Debug\DotaUniversalKeyBind.pdb
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\obj\Debug\DotaUniversalKeyBind.exe
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\obj\Debug\DotaUniversalKeyBind.pdb
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\obj\Debug\DotaKeyGlobalBind.Directory.resources
+D:\Visual Studio 2013\Projects\DotaKeyGlobalBind\DotaKeyGlobalBind\obj\Debug\DotaUniversalKeyBind.Properties.Resources.resources

@@ -1,0 +1,1 @@
+instance_create(672,400, msgbg);
